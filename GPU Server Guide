@@ -1,0 +1,6 @@
+GPU Server Guide:
+Reserve a core on Kaist Portal  -- Reservation tap
+Download MobaXterm program to access the gpu server
+Once you have the program click on 'session' and connect to the ip address of the server that you reserved (The ip address list is on the e mail that you received)
+The initial password is isyse12345! once you log into server, you need to set a new password.
+The server is empty so you need to download conda and all the required packages. Follow the linux_run_python file for this.
