@@ -1,5 +1,5 @@
-Solving TSP with GNN - Training  Attention Model
-The code of the project can be found in 'code' folder.
+Solving TSP with GNN - Training  Attention Model\\
+The code of the project can be found in 'code' folder.\\
 The file Attention has the Attention based TSP solver.
 Train Policy file has the training procedure of the code.
 The parameter file uploaded is a trained model parameter for TSP50.
